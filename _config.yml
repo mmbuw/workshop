@@ -13,9 +13,9 @@ paginate: 5
 navigation:
  - title: Home
    url: /index.html
- - title: About
+ - title: Workshop
    url: /about
- - title: Contact
+ - title: Organizers
    url: /contact
 
 social:
