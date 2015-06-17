@@ -1,8 +1,8 @@
-title: Long Haul
-description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
+title: Shared Infrastructures for Tangible Tabletops and Interactive Surfaces
+description: Workshop at ITS 2015, Nov. 15, Madeira, Portugal
 
-url: http://brianmaierjr.github.com/long-haul
-baseurl: "/long-haul"
+url: http://mmbuw.github.io/workshop
+baseurl: "/workshop"
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
