@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About Long Haul
+title: Workshop
 ---
 
 <div class="post">

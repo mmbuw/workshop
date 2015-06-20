@@ -14,9 +14,9 @@ navigation:
  - title: Home
    url: /index.html
  - title: Workshop
-   url: /about
+   url: /workshop
  - title: Organizers
-   url: /contact
+   url: /organizers
 
 social:
    github: floe
