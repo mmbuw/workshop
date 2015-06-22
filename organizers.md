@@ -8,7 +8,7 @@ title: Organizers
   <div class="organizersContent">
     <div class="organizer">
       <div class="circular-img">
-        <img alt="martin" src="/workshop/assets/img/avatar_placeholder.jpg">
+        <img alt="martin" src="/workshop/assets/img/martin.jpg">
       </div>  
       <p>
         <strong>Martin Kaltenbrunner</strong> <em> is professor at the Interface Culture Lab at the University of Art and Design in Linz. He has been responsible for the interaction design of the Reactable - an electronic musical instrument with a tabletop user interface. In this context he developed the open source tangible interaction framework reacTIVision and the related TUIO protocol, which have been since widely employed for the realization of tangible tabletop applications.</em>
