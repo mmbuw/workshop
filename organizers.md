@@ -11,7 +11,7 @@ title: Organizers
         <img alt="martin" src="/workshop/assets/img/avatar_placeholder.jpg">
       </div>  
       <p>
-        <strong>Martin Kaltenbrunner</strong> <em> Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</em>
+        <strong>Martin Kaltenbrunner</strong> <em> is professor at the Interface Culture Lab at the University of Art and Design in Linz. He has been responsible for the interaction design of the Reactable - an electronic musical instrument with a tabletop user interface. In this context he developed the open source tangible interaction framework reacTIVision and the related TUIO protocol, which have been since widely employed for the realization of tangible tabletop applications.</em>
       </p>
     </div>
     <div class="organizer">
@@ -19,7 +19,7 @@ title: Organizers
         <img alt="florian" src="/workshop/assets/img/avatar_placeholder.jpg">
       </div>
       <p>
-        <strong>Florian Echtler</strong> <em> Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</em>
+        <strong>Florian Echtler</strong> <em> is junior professor at the Faculty of Media at Bauhaus-Universit\"at Weimar. His research interests focus on formal languages for gesture descriptions and design of multimodal development frameworks. Additional topics covered by his research include computer vision for HCI applications, sensor technology and rapid prototyping.</em>
       </p>
     </div>
   </div>
