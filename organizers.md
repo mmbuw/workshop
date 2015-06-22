@@ -16,7 +16,7 @@ title: Organizers
     </div>
     <div class="organizer">
       <div class="circular-img">
-        <img alt="florian" src="/workshop/assets/img/avatar_placeholder.jpg">
+        <img alt="florian" src="/workshop/assets/img/florian.png">
       </div>
       <p>
         <strong>Florian Echtler</strong> <em> is junior professor at the Faculty of Media at Bauhaus-Universit&auml;t Weimar. His research interests focus on formal languages for gesture descriptions and design of multimodal development frameworks. Additional topics covered by his research include computer vision for HCI applications, sensor technology and rapid prototyping.</em>
