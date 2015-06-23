@@ -13,7 +13,7 @@ paginate: 5
 navigation:
  - title: Home
    url: /index.html
- - title: Workshop
+ - title: Blog
    url: /workshop
  - title: Organizers
    url: /organizers
