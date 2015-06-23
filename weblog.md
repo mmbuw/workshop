@@ -6,7 +6,7 @@ title: Blog
 <div class="home" id="home">
   <h1 class="pageTitle">Workshop at ITS 2015, Nov. 15th, Madeira, Portugal</h1>
   <ul class="posts noList">
-    {% for post in paginator.posts %}
+    {% for post in site.posts %}
       <li>
         <span class="date">{{ post.date | date: '%B %d, %Y' }}</span>
         <h3><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
