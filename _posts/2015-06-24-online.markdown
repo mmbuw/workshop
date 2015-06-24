@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Homepage online"
+date:   2015-06-24
+---
+
+<p class="intro">The workshop homepage & CfP are now online. Stay tuned for updates :-)</p>
